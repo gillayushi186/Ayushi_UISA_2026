@@ -6,7 +6,7 @@
 ---
 
 ## Question 1: Interactive Web Mapping of Waste-Bin Observations
-* **Interactive Map Link:** [View Hosted Waste-Bin Map](index.html) *
+* **Interactive Map Link:** [View Hosted Waste-Bin Map](index.html) * (if not opening due to large size can also view at([url](https://hs25m102wastebins.netlify.app)). 
 * **Description:** Displays the waste-bin observations collected via QField as interactive point features with custom popups showing field notes, timestamps, student attribution, and embedded base64 photographs. Uses CartoDB Light and Esri Satellite base layers.
 
 ---
