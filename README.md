@@ -23,5 +23,5 @@
   * **Percentage Increase:** +99.41%
 * **Discussion & Interpretation:**
   The temporal analysis reveals a dramatic near-doubling (+99.41%) of average night-time radiance across Varanasi between 2014 and 2024. Spatially, intense growth radiates outward from the core urban center along major transit corridors, reflecting rapid urbanization, commercial expansion, and municipal lighting upgrades. 
-  * **Limitations:** VIIRS DNB has a coarse spatial resolution (~464 m)[cite: 3], which mixes urban surface radiance with surrounding peri-urban pixels. Cloud cover and stray light corrections were handled using monthly `cf_cvg` quality filters.
-* **Boundary Source:** FAO GAUL (2025) Level 2 Administrative Boundaries[cite: 9].
+  * **Limitations:** VIIRS DNB has a coarse spatial resolution (~464 m), which mixes urban surface radiance with surrounding peri-urban pixels. Cloud cover and stray light corrections were handled using monthly `cf_cvg` quality filters.
+* **Boundary Source:** FAO GAUL (2025) Level 2 Administrative Boundaries.
